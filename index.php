@@ -1,2 +1,2 @@
 <?php
-git checkout feature-login
+echo "Login mail Added!";
